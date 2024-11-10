@@ -1,8 +1,8 @@
-**Background**
+**Background:**
 The game of BlackJack/Twenty-One is a popular card game that can have many players competing against a dealer. 
 What I have programmed is a modified version where it is one player vs. the dealer. 
 
-**Rules**
+**Rules:**
 The goal of the card game is for the player’s cards to total more than the dealer’s without going over a total of 21 (aka a “bust”). 
 Non-face-cards have the value shown on the card (i.e., 2-10), while Jacks, Queens, and Kings have a value of 10. 
 Aces are special in that they have a value of 11 by default unless that value would cause the player to bust 
